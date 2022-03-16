@@ -1,6 +1,6 @@
 ### Здравствуйте. Меня зовут Владимир.
 
-## :arrow_forward: &nbsp;Мои компетенции
+## :arrow_forward: &nbsp;Чем я умею пользоваться?
 - &nbsp;***Java Basics*** <br>
 &nbsp; - Структура программы, операторы и циклы, типы данных,  <br>
 &nbsp; - IDE IntelliJ IDEA (jetbrains) <br>
@@ -17,13 +17,13 @@
 
 - &nbsp;***Git*** <br>
 
-- &nbsp;***Patterns и основные принципы программирования*** <br>
+- &nbsp;***Patterns и принципы*** <br>
 &nbsp; - Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype <br>
 &nbsp; - Структурные шаблоны. Proxy, Decorator, Adapter <br>
 &nbsp; - Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility <br>
 &nbsp; - Magics, DRY, SOLID <br>
 
-## :heavy_check_mark: &nbsp;Мои работы 
+## :heavy_check_mark: &nbsp;Мои работы
 - Дипломный проект - поиск слов в pdf-файлах
 
 ## :mag_right: &nbsp;Моё обучение
