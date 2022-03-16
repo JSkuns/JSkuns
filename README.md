@@ -44,4 +44,3 @@
 ## :mag_right: &nbsp;Моё обучение
 - Сейчас прохожу курс 'Анталогия поиска работы'. <br>
 - Прошёл курс 'Java разработчик' [(сертификат)](https://github.com/JSkuns/certificates/blob/main/java_developer_2022.pdf)
-- 
