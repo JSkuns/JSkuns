@@ -1,6 +1,6 @@
 ### Здравствуйте. Меня зовут Владимир.
 
-### :arrow_forward: Мои компетенции
+## :arrow_forward: &nbsp;Мои компетенции
 - &nbsp;***Java Basics*** <br>
 &nbsp; - Структура программы, операторы и циклы, типы данных,  <br>
 &nbsp; - IDE IntelliJ IDEA (jetbrains) <br>
@@ -23,9 +23,9 @@
 &nbsp; - Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility <br>
 &nbsp; - Magics, DRY, SOLID <br>
 
-### :heavy_check_mark: Мои работы 
+## :heavy_check_mark: &nbsp;Мои работы 
 - Дипломный проект - поиск слов в pdf-файлах
 
-### :mag_right: Моё обучение
+## :mag_right: &nbsp;Моё обучение
 - Сейчас прохожу курс 'Анталогия поиска работы' <br>
 - Прошёл курс 'Java разработчик' (ссылка сертификат)
