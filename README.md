@@ -28,7 +28,8 @@
 
 ## :heavy_check_mark: &nbsp;Мои работы
 - [Дипломная работа. Поисковая система.](https://github.com/JSkuns/diplom)
-- [Курсовая работа к модулю «Java Core»: Менеджер задач.](https://github.com/JSkuns/JavaCore)
+- [Курсовая работа к модулю «Java Core». Менеджер задач.](https://github.com/JSkuns/JavaCore)
+- и другие проекты, которые доступны на github (https://github.com/JSkuns?tab=repositories)
 
 ## :mag_right: &nbsp;Моё обучение
 - Сейчас прохожу курс 'Анталогия поиска работы'. <br>
