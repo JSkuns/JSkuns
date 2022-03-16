@@ -15,7 +15,10 @@
 &nbsp; - JUnit, Mockito, AssertJ. <br>
 &nbsp; - HTTP-протоколы. <br>
 
-- &nbsp;***Git*** <br>
+- &nbsp;***Git (github, gitlab)*** <br>
+- &nbsp; - Внедрение VCS <br>
+- &nbsp; - Ветки, слияние, конфликты, работа с историей, откат <br>
+- &nbsp; - Командная работа. Pull Requests, Issues  <br>
 
 - &nbsp;***Patterns и принципы*** <br>
 &nbsp; - Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype. <br>
@@ -24,7 +27,8 @@
 &nbsp; - Magics, DRY, SOLID. <br>
 
 ## :heavy_check_mark: &nbsp;Мои работы
-- [Дипломный проект - поиск в pdf-файлах определённого слова, вывод ответа в формате json, делая запрос серверу.](https://github.com/JSkuns/diplom)
+- [Дипломная работа. Поисковая система.](https://github.com/JSkuns/diplom)
+- [Курсовая работа к модулю «Java Core»: Менеджер задач.](https://github.com/JSkuns/JavaCore)
 
 ## :mag_right: &nbsp;Моё обучение
 - Сейчас прохожу курс 'Анталогия поиска работы'. <br>
