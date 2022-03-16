@@ -1,15 +1,22 @@
-### <p style="text-align: center;">Здравствуйте. Меня зовут Владимир.</p>
-#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BC&lines=JAVA+DEVELOPER)](https://git.io/typing-svg)
+### Здравствуйте. Меня зовут Владимир.
 
-## Мои работы 
+### Мои компетенции
+:arrow_forward: &nbsp; Java Core <br>
+- Lambda
+- Stream,
+- Maven
+- Gradle
+- работа с CSV, XML, JSON
+- JUnit
+- Mockito
+- HTTP-протоколы
+ 
+:arrow_forward: &nbsp; Git
 
-## Мои компетенции
+### Мои работы 
+:arrow_forward: &nbsp; Дипломный проект - поиск слов в pdf-файлах
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+### Моё обучение
+:mag_right: &nbsp; Сейчас прохожу курс 'Анталогия поиска работы' <br>
+:heavy_check_mark: &nbsp; Прошёл курс 'Java разработчик' (ссылка сертификат)
