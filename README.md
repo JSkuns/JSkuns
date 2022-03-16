@@ -1,3 +1,6 @@
+### <p style="text-align: center;">Здравствуйте. Меня зовут Владимир.</p>
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BC&lines=JAVA+DEVELOPER)](https://git.io/typing-svg)
+
 ## Мои работы 
 
 ## Мои компетенции
