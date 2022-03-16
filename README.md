@@ -1,7 +1,7 @@
 ### Здравствуйте. Меня зовут Владимир.
 
 ### Мои компетенции
-:arrow_forward: Java Core <br>
+:arrow_forward: &nbsp; **Java Core** <br>
 &nbsp; - Lambda <br>
 &nbsp; - Stream <br>
 &nbsp; - Maven <br>
@@ -11,7 +11,7 @@
 &nbsp; - Mockito <br>
 &nbsp; - HTTP-протоколы <br>
 
-:arrow_forward: Git
+:arrow_forward: &nbsp; **Git**
 
 ### Мои работы 
 :arrow_forward: Дипломный проект - поиск слов в pdf-файлах
