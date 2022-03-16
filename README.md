@@ -16,9 +16,9 @@
 &nbsp; - HTTP-протоколы. <br>
 
 - &nbsp;***Git (github, gitlab)*** <br>
-- &nbsp; - Внедрение VCS <br>
-- &nbsp; - Ветки, слияние, конфликты, работа с историей, откат <br>
-- &nbsp; - Командная работа. Pull Requests, Issues  <br>
+&nbsp; - Внедрение VCS <br>
+&nbsp; - Ветки, слияние, конфликты, работа с историей, откат <br>
+&nbsp; - Командная работа. Pull Requests, Issues  <br>
 
 - &nbsp;***Patterns и принципы*** <br>
 &nbsp; - Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype. <br>
