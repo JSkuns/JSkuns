@@ -26,10 +26,13 @@
 &nbsp; - Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility. <br>
 &nbsp; - Magics, DRY, SOLID. <br>
 
+- &nbsp;***HTML & CSS*** <br>
+&nbsp; - <br>
+
 ## :heavy_check_mark: &nbsp;Мои работы
 - [Дипломная работа. Поисковая система.](https://github.com/JSkuns/diplom)
 - [Курсовая работа к модулю «Java Core». Менеджер задач.](https://github.com/JSkuns/JavaCore)
-- и другие проекты, которые доступны на github (https://github.com/JSkuns?tab=repositories)
+- и другие [проекты](https://github.com/JSkuns?tab=repositories), которые доступны на github 
 
 ## :mag_right: &nbsp;Моё обучение
 - Сейчас прохожу курс 'Анталогия поиска работы'. <br>
