@@ -17,6 +17,12 @@
 
 - &nbsp;***Git***
 
+- &nbsp;***Patterns и основные принципы программирования***
+&nbsp; - Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype <br>
+&nbsp; - Структурные шаблоны. Proxy, Decorator, Adapter <br>
+&nbsp; - Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility <br>
+&nbsp; - Magics, DRY, SOLID <br>
+
 ### Мои работы 
 :arrow_forward: Дипломный проект - поиск слов в pdf-файлах
 
