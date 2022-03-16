@@ -1,14 +1,18 @@
 ### Здравствуйте. Меня зовут Владимир.
 
 ### Мои компетенции
+- &nbsp;***Java Basics*** <br>
+&nbsp; - Структура программы, операторы и циклы, типы данных,  <br>
+&nbsp; - IDE IntelliJ IDEA (jetbrains) <br>
+&nbsp; - Модификаторы, ООП, интерфейсы, исключения <br>
+&nbsp; - Generics, Java Collections <br>
+
 - &nbsp;***Java Core*** <br>
 &nbsp; - Lambda <br>
 &nbsp; - Stream <br>
-&nbsp; - Maven <br>
-&nbsp; - Gradle <br>
+&nbsp; - Maven, Gradle <br>
 &nbsp; - работа с CSV, XML, JSON <br>
-&nbsp; - JUnit <br>
-&nbsp; - Mockito <br>
+&nbsp; - JUnit, Mockito, AssertJ <br>
 &nbsp; - HTTP-протоколы <br>
 
 - &nbsp;***Git***
