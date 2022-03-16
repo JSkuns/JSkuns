@@ -1,6 +1,6 @@
 ### Здравствуйте. Меня зовут Владимир.
 
-## :arrow_forward: &nbsp;Чем я умею пользоваться?
+## :point_up: &nbsp;Чем я умею пользоваться?
 - &nbsp;***Java Basics*** <br>
 &nbsp; - Структура программы, операторы и циклы, типы данных,  <br>
 &nbsp; - IDE IntelliJ IDEA (jetbrains) <br>
