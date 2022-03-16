@@ -38,7 +38,7 @@
 ## :heavy_check_mark: &nbsp;Мои работы
 - [Дипломная работа. Поисковая система.](https://github.com/JSkuns/diplom)
 - [Курсовая работа к модулю «Java Core». Менеджер задач.](https://github.com/JSkuns/JavaCore)
-- вёрстка сайтов для ООО "Сайт" ()
+- вёрстка сайтов по макетам для ООО "Сайт" (2017-2018гг.)
 - и другие [проекты](https://github.com/JSkuns?tab=repositories), которые доступны на github 
 
 ## :mag_right: &nbsp;Моё обучение
