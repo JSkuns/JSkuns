@@ -2,14 +2,14 @@
 
 ### Мои компетенции
 :arrow_forward: Java Core <br>
-&nbsp; :black_medium_small_square: Lambda <br>
-&nbsp; :black_medium_small_square: Stream <br>
-&nbsp; :black_medium_small_square: Maven <br>
-&nbsp; :black_medium_small_square: Gradle <br>
-&nbsp; :black_medium_small_square: работа с CSV, XML, JSON <br>
-&nbsp; :black_medium_small_square: JUnit <br>
-&nbsp; :black_medium_small_square: Mockito <br>
-&nbsp; :black_medium_small_square: HTTP-протоколы <br>
+&nbsp; - Lambda <br>
+&nbsp; - Stream <br>
+&nbsp; - Maven <br>
+&nbsp; - Gradle <br>
+&nbsp; - работа с CSV, XML, JSON <br>
+&nbsp; - JUnit <br>
+&nbsp; - Mockito <br>
+&nbsp; - HTTP-протоколы <br>
 
 :arrow_forward: Git
 
