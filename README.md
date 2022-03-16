@@ -15,9 +15,9 @@
 &nbsp; - JUnit, Mockito, AssertJ <br>
 &nbsp; - HTTP-протоколы <br>
 
-- &nbsp;***Git***
+- &nbsp;***Git*** <br>
 
-- &nbsp;***Patterns и основные принципы программирования***
+- &nbsp;***Patterns и основные принципы программирования*** <br>
 &nbsp; - Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype <br>
 &nbsp; - Структурные шаблоны. Proxy, Decorator, Adapter <br>
 &nbsp; - Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility <br>
