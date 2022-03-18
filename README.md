@@ -26,6 +26,16 @@
 &nbsp; - Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility. <br>
 &nbsp; - Magics, DRY, SOLID. <br>
 
+- &nbsp;***Библиотеки, которые я использовал (подключаемые дополнительно)*** <br>
+&nbsp; - junit (тестирование) <br>
+&nbsp; - assertj (тестирование) <br>
+&nbsp; - mockito (тестирование) <br>
+&nbsp; - gson (работа с json) <br>
+&nbsp; - jackson (работа с json) <br>
+&nbsp; - itext7 (работа с pdf-файлами) <br>
+&nbsp; - big-math (математические операции с большими числами) <br>
+&nbsp; - maven-surefire (вывод логов через maven) <br>
+
 - &nbsp;***HTML*** <br>
 &nbsp; - Структура сайта - навигация, шапка, подвал, подключение стилей, скриптов, шрифтов. <br>
 &nbsp; - Работа с текстом - списки, таблицы, заголовки, стили, ссылки. <br>
@@ -42,6 +52,6 @@
 - и другие [проекты](https://github.com/JSkuns?tab=repositories), которые доступны на github 
 
 ## :mag_right: &nbsp;Моё обучение
-- Ближайшие планы, изучить многопоточность, Spring Framework, PostgreSQL, JDBC, Logger, Servlets
+- Ближайшие планы: многопоточность, Spring Framework, PostgreSQL, JDBC, Logger, Servlets
 - Сейчас прохожу курс 'Анталогия поиска работы'. <br>
 - Прошёл курс 'Java разработчик' [(сертификат)](https://github.com/JSkuns/certificates/blob/main/java_developer_2022.pdf)
