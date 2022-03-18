@@ -11,14 +11,15 @@
 &nbsp; - Lambda. <br>
 &nbsp; - Stream. <br>
 &nbsp; - Maven, Gradle. <br>
-&nbsp; - работа с CSV, XML, JSON. <br>
+&nbsp; - Работа с CSV, XML, JSON. <br>
 &nbsp; - JUnit, Mockito, AssertJ. <br>
+&nbsp; - Потоки ввода-вывода, работа с файлами, сериализация. <br>
 &nbsp; - HTTP-протоколы. <br>
 
 - &nbsp;***Git (github, gitlab)*** <br>
-&nbsp; - Внедрение VCS <br>
-&nbsp; - Ветки, слияние, конфликты, работа с историей, откат <br>
-&nbsp; - Командная работа. Pull Requests, Issues  <br>
+&nbsp; - Внедрение VCS. <br>
+&nbsp; - Ветки, слияние, конфликты, работа с историей, откат. <br>
+&nbsp; - Командная работа. Pull Requests, Issues.  <br>
 
 - &nbsp;***Patterns и принципы*** <br>
 &nbsp; - Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype. <br>
