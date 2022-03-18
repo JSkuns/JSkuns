@@ -42,5 +42,6 @@
 - и другие [проекты](https://github.com/JSkuns?tab=repositories), которые доступны на github 
 
 ## :mag_right: &nbsp;Моё обучение
+- Ближайшие планы, изучить многопоточность, Spring Framework, PostgreSQL, JDBC, Logger, Servlets
 - Сейчас прохожу курс 'Анталогия поиска работы'. <br>
 - Прошёл курс 'Java разработчик' [(сертификат)](https://github.com/JSkuns/certificates/blob/main/java_developer_2022.pdf)
