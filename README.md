@@ -1,11 +1,11 @@
-### Здравствуйте. Меня зовут Владимир.
+### Здравствуйте.
 
 ## :point_up: &nbsp;Чем я умею пользоваться?
 - &nbsp;***Java Basics:*** <br>
 &nbsp; - Структура программы; операторы и циклы; типы данных; IDE IntelliJ IDEA; модификаторы, ООП, интерфейсы, исключения; Generics, Java Collections. <br>
 
 - &nbsp;***Java Core:*** <br>
-&nbsp; - Lambda; Stream; Maven; Gradle; Работа с CSV, XML, JSON; JUnit; Mockito; AssertJ; потоки ввода-вывода, работа с файлами, сериализация; HTTP-протоколы. <br>
+&nbsp; - Lambda; Stream; Maven; Gradle; Работа с CSV, XML, JSON; потоки ввода-вывода, работа с файлами, сериализация; HTTP-протоколы. <br>
 
 - &nbsp;***Git:*** <br>
 &nbsp; - Внедрение VCS; ветки; слияние; конфликты; работа с историей; откат; командная работа; Pull Requests, Issues. <br>
@@ -13,6 +13,9 @@
 - &nbsp;***Patterns и принципы:*** <br>
 &nbsp; - Порождающие, структурные и поведенческие шаблоны: Builder; Singleton; Factory Method; Abstract Factory; Prototype; Proxy; Decorator; Adapter; Command; Iterator; Observer; Chain of Responsibility. <br>
 &nbsp; - Принципы: Magics, DRY, SOLID. <br>
+
+- &nbsp;***Frameworks:*** <br>
+- &nbsp; - Spring Boot <br>
 
 <!-- - &nbsp;***Библиотеки, которые я использовал (подключаемые дополнительно)*** <br>
 &nbsp; - junit (тестирование) <br>
@@ -37,5 +40,5 @@
 - и другие [проекты](https://github.com/JSkuns?tab=repositories), которые доступны на github 
 
 ## :mag_right: &nbsp;Моё обучение
-- Ближайшие планы: многопоточность, Spring Framework, PostgreSQL, JDBC, Logger, Servlets
+- Ближайшие планы: PostgreSQL, Logger
 - Прошёл курс 'Java разработчик' [(сертификат)](https://github.com/JSkuns/certificates/blob/main/java_developer_2022.pdf)
