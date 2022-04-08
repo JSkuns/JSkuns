@@ -15,7 +15,7 @@
 &nbsp; - Принципы: Magics, DRY, SOLID. <br>
 
 - &nbsp;***Frameworks:*** <br>
-- &nbsp; - Spring Boot <br>
+&nbsp; - Spring Boot <br>
 
 <!-- - &nbsp;***Библиотеки, которые я использовал (подключаемые дополнительно)*** <br>
 &nbsp; - junit (тестирование) <br>
