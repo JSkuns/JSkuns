@@ -61,4 +61,4 @@ c 24/04/2022 работаю в проекте Guidewire (язык Gosu - что-
 
 ## :mag_right: &nbsp;Моё обучение
 - 2021-2022 - Прошёл курс 'Java разработчик' [(сертификат)](https://github.com/JSkuns/certificates/blob/main/java_developer_2022.pdf)
-- 2024-2025 - Прошёл курс 'Разработчик на Spring Framework' [(сертификат)](https://github.com/JSkuns/certificates/blob/main/java_developer_2022.pdf)
+- 2024-2025 - Прошёл курс 'Разработчик на Spring Framework' [(сертификат)](https://github.com/JSkuns/certificates/blob/main/java-spring.pdf)
