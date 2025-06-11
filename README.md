@@ -15,10 +15,10 @@
 &nbsp; - Принципы: <br>
 &nbsp;&nbsp; - Magics (Avoid Magic Numbers and Strings), <br>
 &nbsp;&nbsp; - DRY (Don't Repeat Yourself), <br>
-&nbsp;&nbsp; - SOLID. <br>
-&nbsp;&nbsp; - KISS (Keep It Short and Simple)
-&nbsp;&nbsp; - YAGNI (You Aren't Gonna Need It)
-&nbsp;&nbsp; - GRASP (General Responsibility Assignment Software Principles)
+&nbsp;&nbsp; - SOLID, <br>
+&nbsp;&nbsp; - KISS (Keep It Short and Simple), <br>
+&nbsp;&nbsp; - YAGNI (You Aren't Gonna Need It), <br>
+&nbsp;&nbsp; - GRASP (General Responsibility Assignment Software Principles). <br>
 
 - &nbsp;***Frameworks:*** <br>
 &nbsp; - Spring (Java) -> Boot; AOP; MVC; ORM (Hibernate); JDBC; JPA; DATA JPA; Tx; Shell; Webflux; Security; ACL / Authorization; Batch; Integration; Actuator <br>
