@@ -16,13 +16,17 @@
 &nbsp;&nbsp; - Magics (Avoid Magic Numbers and Strings), <br>
 &nbsp;&nbsp; - DRY (Don't Repeat Yourself), <br>
 &nbsp;&nbsp; - SOLID. <br>
+&nbsp;&nbsp; - KISS (Keep It Short and Simple)
+&nbsp;&nbsp; - YAGNI (You Aren't Gonna Need It)
+&nbsp;&nbsp; - GRASP (General Responsibility Assignment Software Principles)
 
 - &nbsp;***Frameworks:*** <br>
-&nbsp; - Spring (Java) -> Boot, AOP, MVC, ORM (Hibernate), JDBC, JPA, DATA JPA, Tx, Shell, Webflux, Security, ACL / Authorization, Batch, Integration, Actuator <br>
+&nbsp; - Spring (Java) -> Boot; AOP; MVC; ORM (Hibernate); JDBC; JPA; DATA JPA; Tx; Shell; Webflux; Security; ACL / Authorization; Batch; Integration; Actuator <br>
 &nbsp; - Drools (Java) <br>
+&nbsp; - Hibernate (Java) <br>
 &nbsp; - Bootstrap (HTML, CSS) <br>
 
-- &nbsp;***Библиотеки, которые я использовал (подключаемые дополнительно)*** <br>
+- &nbsp;***Библиотеки*** <br>
 &nbsp; - junit (тестирование) <br>
 &nbsp; - assertj (тестирование) <br>
 &nbsp; - mockito (тестирование) <br>
@@ -31,6 +35,7 @@
 &nbsp; - itext7 (работа с pdf-файлами) <br>
 &nbsp; - big-math (математические операции с большими числами) <br>
 &nbsp; - maven-surefire (тестирование) <br>
+&nbsp; - swing (ui) <br>
 &nbsp; - и др.
 
 - &nbsp;***HTML*** <br>
@@ -42,7 +47,9 @@
 
 - &nbsp;***PHP*** <br>
 - &nbsp;***JavaScript*** <br>
+&nbsp; - Fetch API
 &nbsp; - Основы
+
 
 ## :star2: &nbsp;Опыт
 до 24/04/2022 - работал почти 10 лет программистом-технологом по станкам с ЧПУ <br>
