@@ -12,10 +12,28 @@
 
 - &nbsp;***Patterns и принципы:*** <br>
 &nbsp; - Порождающие, структурные и поведенческие шаблоны: Builder; Singleton; Factory Method; Abstract Factory; Prototype; Proxy; Decorator; Adapter; Command; Iterator; Observer; Chain of Responsibility. <br>
-&nbsp; - Принципы: Magics, DRY, SOLID. <br>
+&nbsp; - Принципы: <br>
+&nbsp;&nbsp; - Magics (Avoid Magic Numbers and Strings), <br>
+&nbsp;&nbsp; - DRY (Don't Repeat Yourself), <br>
+&nbsp;&nbsp; - SOLID. <br>
 
 - &nbsp;***Frameworks:*** <br>
-&nbsp; - Spring Boot (Java) <br>
+&nbsp; - Spring (Java) <br>
+&nbsp;&nbsp; - Spring Boot <br>
+&nbsp;&nbsp; - Spring AOP <br>
+&nbsp;&nbsp; - Spring MVC <br>
+&nbsp;&nbsp; - Spring ORM <br>
+&nbsp;&nbsp; - Spring JDBC <br>
+&nbsp;&nbsp; - Spring JPA <br>
+&nbsp;&nbsp; - Spring DATA JPA <br>
+&nbsp;&nbsp; - Spring Tx <br>
+&nbsp;&nbsp; - Spring Shell <br>
+&nbsp;&nbsp; - Spring Webflux <br>
+&nbsp;&nbsp; - Spring Security <br>
+&nbsp;&nbsp; - Spring ACL / Authorization <br>
+&nbsp;&nbsp; - Spring Batch <br>
+&nbsp;&nbsp; - Spring Integration <br>
+&nbsp;&nbsp; - Spring Actuator <br>
 &nbsp; - Drools (Java) <br>
 &nbsp; - Bootstrap (HTML, CSS) <br>
 
@@ -27,7 +45,7 @@
 &nbsp; - jackson (работа с json) <br>
 &nbsp; - itext7 (работа с pdf-файлами) <br>
 &nbsp; - big-math (математические операции с большими числами) <br>
-&nbsp; - maven-surefire (вывод логов через maven) <br>
+&nbsp; - maven-surefire (тестирование) <br>
 &nbsp; - и др.
 
 - &nbsp;***HTML*** <br>
