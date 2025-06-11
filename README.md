@@ -10,6 +10,10 @@
 - &nbsp;***Git (GitHub, GitLab):*** <br>
 &nbsp; - Внедрение VCS; ветки; слияние; конфликты; работа с историей; откат; командная работа; Pull Requests, Issues. <br>
 
+- &nbsp;***CI/CD - инструменты:*** <br>
+&nbsp; - Bitbucket, Confluence, Bamboo, Jira <br>
+&nbsp; - Docker, Docker compose <br>
+
 - &nbsp;***Patterns и принципы:*** <br>
 &nbsp; - Порождающие, структурные и поведенческие шаблоны: Builder; Singleton; Factory Method; Abstract Factory; Prototype; Proxy; Decorator; Adapter; Command; Iterator; Observer; Chain of Responsibility. <br>
 &nbsp; - Принципы: <br>
