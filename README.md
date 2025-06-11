@@ -2,12 +2,12 @@
 
 ## :point_up: &nbsp;Чем я умею пользоваться?
 - &nbsp;***Java Basics:*** <br>
-&nbsp; - Структура программы; операторы и циклы; типы данных; IDE IntelliJ IDEA; модификаторы, ООП, интерфейсы, исключения; Generics, Java Collections. <br>
+&nbsp; - Структура программы; операторы и циклы; типы данных; IDE IntelliJ IDEA; модификаторы, ООП, интерфейсы, исключения; Generics, коллекции и массивы. <br>
 
 - &nbsp;***Java Core:*** <br>
-&nbsp; - Lambda; Stream; Maven; Gradle; Работа с CSV, XML, JSON; потоки ввода-вывода, работа с файлами, сериализация; HTTP-протоколы. <br>
+&nbsp; - Lambda; Stream; Maven; Gradle; Работа с CSV, XML, JSON; потоки ввода-вывода, работа с файлами, дженерики, сериализация; HTTP-протоколы, работа с датами, regexp, многопоточность, аннотации. <br>
 
-- &nbsp;***Git:*** <br>
+- &nbsp;***Git (GitHub, GitLab):*** <br>
 &nbsp; - Внедрение VCS; ветки; слияние; конфликты; работа с историей; откат; командная работа; Pull Requests, Issues. <br>
 
 - &nbsp;***Patterns и принципы:*** <br>
@@ -47,7 +47,7 @@
 
 - &nbsp;***PHP*** <br>
 - &nbsp;***JavaScript*** <br>
-&nbsp; - Fetch API
+&nbsp; - Fetch API <br>
 &nbsp; - Основы
 
 
