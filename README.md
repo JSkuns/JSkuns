@@ -18,22 +18,7 @@
 &nbsp;&nbsp; - SOLID. <br>
 
 - &nbsp;***Frameworks:*** <br>
-&nbsp; - Spring (Java) <br>
-&nbsp;&nbsp; - Spring Boot <br>
-&nbsp;&nbsp; - Spring AOP <br>
-&nbsp;&nbsp; - Spring MVC <br>
-&nbsp;&nbsp; - Spring ORM <br>
-&nbsp;&nbsp; - Spring JDBC <br>
-&nbsp;&nbsp; - Spring JPA <br>
-&nbsp;&nbsp; - Spring DATA JPA <br>
-&nbsp;&nbsp; - Spring Tx <br>
-&nbsp;&nbsp; - Spring Shell <br>
-&nbsp;&nbsp; - Spring Webflux <br>
-&nbsp;&nbsp; - Spring Security <br>
-&nbsp;&nbsp; - Spring ACL / Authorization <br>
-&nbsp;&nbsp; - Spring Batch <br>
-&nbsp;&nbsp; - Spring Integration <br>
-&nbsp;&nbsp; - Spring Actuator <br>
+&nbsp; - Spring (Java) -> Boot, AOP, MVC, ORM (Hibernate), JDBC, JPA, DATA JPA, Tx, Shell, Webflux, Security, ACL / Authorization, Batch, Integration, Actuator <br>
 &nbsp; - Drools (Java) <br>
 &nbsp; - Bootstrap (HTML, CSS) <br>
 
